@@ -6,3 +6,4 @@ A yet-to-be-curated list of awesome things that community members have done on t
 - [ThankArb Impact Analysis app](https://thank-arb-analysis.streamlit.app/)
 - [Impact Calculator by RetroPGF Hub](https://impact-calculator-experiment.vercel.app/)
 - [Pairwise (for Retro Funding)](https://app.pairwise.vote/)
+- [Filecoin in Numbers](https://numbers.filecoindataportal.xyz/#developer-activity)
