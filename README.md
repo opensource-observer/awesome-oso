@@ -8,3 +8,4 @@ A yet-to-be-curated list of awesome things that community members have done on t
 - [Pairwise (for Retro Funding)](https://app.pairwise.vote/)
 - [Filecoin in Numbers](https://numbers.filecoindataportal.xyz/#developer-activity)
 - [Custom Scoring GG22 OSS Grantees](https://gg22-grantsscope.streamlit.app/)
+- [Optimism S6 Growth Grant Analytics](https://optimism-s6-growth-grants.streamlit.app/)
