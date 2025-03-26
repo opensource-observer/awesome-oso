@@ -9,3 +9,4 @@ A yet-to-be-curated list of awesome things that community members have done on t
 - [Filecoin in Numbers](https://numbers.filecoindataportal.xyz/#developer-activity)
 - [Custom Scoring GG22 OSS Grantees](https://gg22-grantsscope.streamlit.app/)
 - [Optimism S6 Growth Grant Analytics](https://optimism-s6-growth-grants.streamlit.app/)
+- [OSS Directory formatter](https://www.openlabelsinitiative.org/project)
