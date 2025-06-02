@@ -11,3 +11,4 @@ A yet-to-be-curated list of awesome things that community members have done on t
 - [Optimism S6 Growth Grant Analytics](https://optimism-s6-growth-grants.streamlit.app/)
 - [OSS Directory formatter](https://www.openlabelsinitiative.org/project)
 - [Arbitrum Stylus Sprint Dashboard](https://stylus-sprint.streamlit.app/)
+- [oso-badge](https://github.com/bismuth01/oso-badge)
